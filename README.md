@@ -68,6 +68,6 @@ Scripts are released under the MIT License, see LICENSE.
 ## References
 [1] T13, _"Information technology - ATA Command Set - 4 (ACS-4)"_, Working Draft, Revision 14, October 2016
 
-[2] Microsoft, _"(ATA_PASS_THROUGH_EX structure)[https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ntddscsi/ns-ntddscsi-_ata_pass_through_ex]"_, Retrieved in December 2024
+[2] Microsoft, _"[ATA_PASS_THROUGH_EX structure](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/ntddscsi/ns-ntddscsi-_ata_pass_through_ex)"_, Retrieved in December 2024
 
-[2] _"(Sending ATA commands directly to device in Windows?)[https://stackoverflow.com/questions/5070987/sending-ata-commands-directly-to-device-in-windows]"_, Retrieved in December 2024
+[3] _"[Sending ATA commands directly to device in Windows?](https://stackoverflow.com/questions/5070987/sending-ata-commands-directly-to-device-in-windows)"_, Retrieved in December 2024
