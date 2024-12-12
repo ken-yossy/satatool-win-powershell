@@ -39,10 +39,24 @@ CLRVersion                     4.0.30319.42000
 WSManStackVersion              3.0
 PSRemotingProtocolVersion      2.3
 SerializationVersion           1.1.0.1
+
+PS C:\Users\yossy> $PSVersionTable
+
+Name                           Value
+----                           -----
+PSVersion                      5.1.26100.2161
+PSEdition                      Desktop
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}
+BuildVersion                   10.0.26100.2161
+CLRVersion                     4.0.30319.42000
+WSManStackVersion              3.0
+PSRemotingProtocolVersion      2.3
+SerializationVersion           1.1.0.1
 ```
 
 * Tested operating system
   * Windows 10 Pro 64bit (Version 22H2, Build 19045.5247)
+  * Windows 11 Pro 64bit (Version 24H2, Build 26100.2605)
 
 ## Limitations
 
